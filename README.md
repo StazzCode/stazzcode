@@ -1,4 +1,4 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif" width="30">
+## Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif" width="30">
 
 I'm Kellian, a computer science student from France.
 
